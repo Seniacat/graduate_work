@@ -1,2 +1,2 @@
-[Проектная работа: диплом](!https://github.com/bogatovad/graduate_work)
+[Проектная работа: диплом](https://github.com/bogatovad/graduate_work)
 
